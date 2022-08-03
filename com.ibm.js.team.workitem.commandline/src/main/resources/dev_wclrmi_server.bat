@@ -1,1 +1,0 @@
-call ./dev_wcl_rmi.bat /rmiServer=//clm.example.com:1199/WorkItemCommandLine
